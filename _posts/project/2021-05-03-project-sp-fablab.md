@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Fab Lab Elective @ SP
+thumbnail-img: /assets/img/project/1200px-Fab_Lab_logo.png
 published: true
 subtitle: Digital Fabrication & Prototyping elective
 ---
