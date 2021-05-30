@@ -14,12 +14,12 @@ author: Some Person
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  School Related:
-    - Beautiful Jekyll:
+  School Related:"aboutme"
+    - FabLab:
     - Learn markdown:
   Stuff I did:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Divergence Meter: "https://beautifuljekyll.com"
+    - Rina-chan Board: "https://www.markdowntutorial.com/"
   About Me: "aboutme"
 
 # --- Logo --- #
