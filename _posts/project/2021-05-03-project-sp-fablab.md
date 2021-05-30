@@ -1,3 +1,9 @@
+---
+layout: post
+title: Fab Lab @ SP
+subtitle: Digital Fabrication & Prototyping elective @ SP
+---
+
 # Fab Lab  Elective @SP
 
 My documentation through the Digital Design & Fabrication elective in Singapore polytechnic.
