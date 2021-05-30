@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Fab Lab @ SP
+published: true
 subtitle: Digital Fabrication & Prototyping elective @ SP
 ---
 
