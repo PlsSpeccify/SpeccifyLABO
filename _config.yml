@@ -14,7 +14,7 @@ author: Some Person
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  School Related:"aboutme"
+  School Related: "aboutme"
     - FabLab:
     - Learn markdown:
   Stuff I did:
