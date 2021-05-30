@@ -15,7 +15,7 @@ author: Some Person
 
 navbar-links:
   
-  School Related: "aboutme"
+  School Related:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Stuff I did: "https://deanattali.com"
