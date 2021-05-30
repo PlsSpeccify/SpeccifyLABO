@@ -17,9 +17,7 @@ navbar-links:
   School Related:
     - FabLab: "aboutme"
     - Learn markdown:
-  Stuff I did:
-    - Divergence Meter: "https://beautifuljekyll.com"
-    - Rina-chan Board: "https://www.markdowntutorial.com/"
+  Stuff I did: "project"
   About Me: "aboutme"
 
 # --- Logo --- #
