@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Fab Lab @ SP
+title: Fab Lab Elective @ SP
 published: true
-subtitle: Digital Fabrication & Prototyping elective @ SP
+subtitle: Digital Fabrication & Prototyping elective
 ---
 
-# Fab Lab  Elective @SP
+
 
 My documentation through the Digital Design & Fabrication elective in Singapore polytechnic.
 
