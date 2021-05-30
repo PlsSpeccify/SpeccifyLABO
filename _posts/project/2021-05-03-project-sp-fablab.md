@@ -8,8 +8,6 @@ subtitle: Digital Fabrication & Prototyping elective @ SP
 
 My documentation through the Digital Design & Fabrication elective in Singapore polytechnic.
 
-file in a file in a file
-
 Websites:
 
 | Elective Module                                              |            Duration            |
