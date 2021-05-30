@@ -14,8 +14,8 @@ author: Some Person
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  School Related: "aboutme"
-    - FabLab:
+  School Related:
+    - FabLab: "aboutme"
     - Learn markdown:
   Stuff I did:
     - Divergence Meter: "https://beautifuljekyll.com"
